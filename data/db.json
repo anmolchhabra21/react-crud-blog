@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it ",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "opening Party ",
+      "body": "Why do we use it and why we even want to use it also",
+      "author": "Toshi",
+      "id": 2
+    },
+    {
+      "title": "hello ninjas ",
+      "body": "ninja hatori",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Good evening Respected Seniors",
+      "body": "My name is Anmol Chhabra , \nI am from Hanumangarh Town, Rajasthan \nPlease let me win ",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
